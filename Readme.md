@@ -19,18 +19,17 @@ After Download, you can put these files to the folder `Cla_datasets` and `Traine
 
 ## Generate explanation
 
-1.  Run the following command to generate explanations.
+1. Run the following command to generate explanations.
 
    `python HETSG_main.py --task_name sst-2 --start_pos 0 --end_pos -1`
 
-The results of the explanation for each text will be saved in the folder `Explain_results`.
+   The results of the explanation for each text will be saved in the folder `Explain_results`.
 
 2. Run the following command to visualize the explanation on the given examples.
 
    `python HETSG_main.py --task_name sst-2 --visualize 1`
-   
 
-The figures of the hierarchical explanation will be saved in the main folder.
+   The figures of the hierarchical explanation will be saved in the main folder.
 
 
 ## Acknowledgement
