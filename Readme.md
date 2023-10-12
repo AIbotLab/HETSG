@@ -13,7 +13,7 @@ The main implementation for the paper **Hierarchical Explanations for Text Class
 
 The accuracy of the pre-trained model for each dataset is shown in Table2 of our paper.
 
-Download the pre-trained models on each dataset  
+Download the pre-trained models on each dataset  [Model and Data](https://drive.google.com/drive/folders/1mtbGERHSBhmnstrKZ45PN0lV9eAJ7_t6?usp=drive_link)
 
 After Download, you can put these files to the folder `Cla_datasets` and `TrainedModel` for the dataset and pre-trained models.
 
